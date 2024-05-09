@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="GoldValut.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="GoldValut.exe" version="2.1.2.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -126,13 +126,13 @@
       <dsig:DigestValue>cJrJKYBDr0eT84wbP/inHuE/ghl7YY0zmMJtfO8zEl0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GoldValut.dll" size="253440">
+  <file name="GoldValut.dll" size="252928">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZU/fr3S2sBZ9xvnqCUFXZyQTHxepQTNsGul3tFXQ41I=</dsig:DigestValue>
+      <dsig:DigestValue>gw6oMsynjuU51STWJ85ThOjCDIZI1wEb0s+9rqjpj/k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="GoldValut.dll.config" size="1174">
@@ -144,13 +144,13 @@
       <dsig:DigestValue>2Dz96hjaf4PmJSquhsy/fBqKDIWDTXSupkt6xE5MjE0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GoldValut.exe" size="158208">
+  <file name="GoldValut.exe" size="157696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gP1CykZ6zoNtu38wcZYkpVg9URO1AWgX4/kUOk0OXyU=</dsig:DigestValue>
+      <dsig:DigestValue>borlFRMv3hENP5brdHbSH3AWXTGP2Zqlii3L+FXRFLE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="GoldValut.runtimeconfig.json" size="527">
